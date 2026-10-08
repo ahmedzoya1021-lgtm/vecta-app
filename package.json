@@ -10,7 +10,7 @@
     "test-prompt": "tsx scripts/test-prompt.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.32.1",
+    "@anthropic-ai/sdk": "0.132.1",
     "next": "^15.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
